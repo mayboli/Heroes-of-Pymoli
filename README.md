@@ -1,5 +1,7 @@
 # Heroes-of-Pymoli
 
+Tools: Numpy, Pandas
+
 After analyzing data for a fictional game, Heroes of Pymoli, I have learned quite a bit about users and the purchases they made in the game. With a total of 780 purchases made by 576 different players, it shows that some players made more than one purchase. 
 
 One slight observation I noticed in the game is that the item "final critic" shows up with two different item IDs and two different prices. It could be an error or it could be used differently throughout the game, for example, buying the item before knowing the usefulness of it during a quest and buying it during the quest when the player realizes that it's absolutely necessary. 
